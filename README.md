@@ -1,3 +1,8 @@
+#Luke's Changes
+This fork takes the icons library originally provided by (marclelijveld / Power-BI-Icons) and adds a range of icons from the MS365 ecosystem, I would like to further expand this as I have become a heavy user of Draw.io and require these icons regularly.
+
+The Diagrams.net_M365Icons.xml file builds on what marclelijveld created and adds the MS365 product logos for convenience.
+
 # Data-Marc
 This repository is recently forked from a Microsoft repo. With that, all icons that were in my repository are added to the Microsoft repo. 
 In collaboration with Microsoft, i decided to archive my original repository. 
