@@ -11,6 +11,9 @@ The Diagrams.net_OfficeFabricIcons.xml offers the full library of Office Fabric 
 
 The Diagrams.net_AllIcons_M365_PowerBi_OfficeFabricIcons.xml file includes all of the icons available in one library file!
 
+![Diagrams.net_AllIcons_M365_PowerBi_OfficeFabricIcons.xml](https://user-images.githubusercontent.com/33621585/235296289-e963871f-b859-4a1e-b8cc-7a97e810d0f0.png)
+
+
 # Data-Marc
 This repository is recently forked from a Microsoft repo. With that, all icons that were in my repository are added to the Microsoft repo. 
 In collaboration with Microsoft, i decided to archive my original repository. 
